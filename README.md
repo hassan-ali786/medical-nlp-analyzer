@@ -1,4 +1,4 @@
-# medical-nlp-analyzer
+# Medical-Nlp-Analyzer
 
 > NLP pipeline for drug review sentiment analysis and named entity recognition.
 
