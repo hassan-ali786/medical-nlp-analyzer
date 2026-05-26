@@ -1,10 +1,11 @@
-<video src="https://github.com/user-attachments/assets/5680d975-0023-4be2-9f11-4e706882aed7" width="100%" controls></video>
-
-
 
 # Medical-Nlp-Analyzer
 
 > NLP pipeline for drug review sentiment analysis and named entity recognition.
+
+ # Video Demo
+ <video src="https://github.com/user-attachments/assets/5680d975-0023-4be2-9f11-4e706882aed7" width="100%" controls></video>
+ 
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Accuracy](https://img.shields.io/badge/Accuracy-84%25-brightgreen)
